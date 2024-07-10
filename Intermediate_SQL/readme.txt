@@ -85,3 +85,30 @@ Using arithmetic
 Aliasing with functions
 
 Rounding results
+
+4. Sorting and Grouping
+
+
+This final chapter teaches you how to sort and group data. These skills will take your analyses to a new level by helping you uncover critical business insights and identify trends and performance. You'll get hands-on experience to determine which films performed the best and how movie durations and budgets changed over time.
+
+Sorting results
+
+Sorting text
+
+Sorting single fields
+
+Sorting multiple fields
+
+Grouping data
+
+GROUP BY single fields
+
+GROUP BY multiple fields
+
+Answering business questions
+
+Filtering grouped data
+
+Filter with HAVING
+
+HAVING and sorting
